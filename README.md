@@ -1,6 +1,6 @@
 🐍 Snake Game – Terminal Edition
 
-A classic Snake game written in Python (curses), designed for Linux terminals.
+A classic Snake game written in Python (curses),
 Built by Emon Rhman.
 
 🎮 Live Gameplay (Online Alternatives)
