@@ -81,9 +81,6 @@ SNAKE-GAMES/
     ├── gameplay.png
     └── gameover.png
 
-📜 License (MIT)
-MIT License
-
 Copyright (c) 2025 Emon Rhman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
