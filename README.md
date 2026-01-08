@@ -7,7 +7,7 @@ Built by Emon Rhman.
 
 Since terminal-based Python games cannot run online, here are playable web alternatives you can embed for users to test Snake gameplay directly from your README:
 
-🔗 Online Snake Game Links
+🔗 Online Snake Game Links-
 
 Play Snake Online (Browser): https://playsnake.org
 
