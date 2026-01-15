@@ -47,6 +47,7 @@ Python 3.8+
 Linux Terminal (curses does not work on Windows CMD)
 
 Works perfectly on:
+
 ✔ Debian
 ✔ Ubuntu
 ✔ Kali
